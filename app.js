@@ -1,0 +1,1 @@
+alert('Esta es una pagina de practica para el curso de git')

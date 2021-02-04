@@ -1,0 +1,15 @@
+#cabecera {
+  font-size: 20px;
+  padding-left: 25px;
+}
+
+#cabecera h1 {
+  text-align: center;
+  text-shadow: 0px 0px 2px black;
+}
+
+#cabecera ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+}
