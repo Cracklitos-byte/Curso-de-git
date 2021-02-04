@@ -21,7 +21,8 @@ main {
 
 .seccion_principal,
 .mi_historia,
-.hobbies {
+.hobbies,
+.conocimientos {
   font-size: 25px;
   margin-left: 25px;
 }
