@@ -13,3 +13,14 @@
   display: inline-block;
   margin-right: 10px;
 }
+
+main {
+  display: flex;
+}
+
+.seccion_principal,
+.mi_historia,
+.hobbies {
+  font-size: 25px;
+  margin-left: 25px;
+}
