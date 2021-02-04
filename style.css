@@ -16,6 +16,7 @@
 
 main {
   display: flex;
+  height: 600px;
 }
 
 .seccion_principal,
@@ -23,4 +24,9 @@ main {
 .hobbies {
   font-size: 25px;
   margin-left: 25px;
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
 }
